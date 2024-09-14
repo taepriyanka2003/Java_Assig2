@@ -1,0 +1,24 @@
+
+.container {
+    background-color: #bdefa4; 
+    padding: 100px;
+    border-radius: 5px;
+    text-align: center;
+    width: 1000px;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    color: #fff;
+    background-color: #007bff; 
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .button:hover {
+    background-color: #0056b3; 
+  }
+  
